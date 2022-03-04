@@ -1,4 +1,5 @@
 <?php
+//bfrfbrnb
 if(isset($_POST['submit']))
 {
 $con = mysqli_connect("localhost","root","","student"); 
